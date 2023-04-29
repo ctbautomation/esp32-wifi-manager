@@ -1,0 +1,7 @@
+version: "1.0.0"
+description: esp32-wifi-manager
+url: https://github.com/ctbautomation/esp32-wifi-manager.git
+dependencies:
+  # Required IDF version
+  idf:
+    version: ">=4.1"
