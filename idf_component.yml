@@ -2,6 +2,7 @@ version: "1.0.0"
 description: esp32-wifi-manager
 url: https://github.com/ctbautomation/esp32-wifi-manager.git
 dependencies:
-  # Required IDF version
+  espressif/mdns:
+    version: ^1.0.9
   idf:
     version: ">=4.1"
